@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7dMYOu/hn1g=",
+  "success": true,
+  "projectFilePath": "/home/z/my-project/repos/Cyrene-Agent/dotnet/voice/CyreneVoice/CyreneVoice.csproj",
+  "expectedPackageFiles": [
+    "/home/z/.nuget/packages/microsoft.ml.onnxruntime/1.23.0/microsoft.ml.onnxruntime.1.23.0.nupkg.sha512",
+    "/home/z/.nuget/packages/microsoft.ml.onnxruntime.managed/1.23.0/microsoft.ml.onnxruntime.managed.1.23.0.nupkg.sha512",
+    "/home/z/.nuget/packages/system.numerics.tensors/9.0.0/system.numerics.tensors.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
