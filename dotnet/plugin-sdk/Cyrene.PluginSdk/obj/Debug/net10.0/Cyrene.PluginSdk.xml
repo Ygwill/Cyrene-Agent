@@ -67,5 +67,10 @@
             <c>{"type":"object","properties":{"q":{"type":"string"}},"required":["q"]}</c>
             </summary>
         </member>
+        <member name="P:Cyrene.PluginSdk.CyreneToolAttribute.Risk">
+            <summary>风险等级（宿主权限闸门）：safe/fs-read/fs-write/shell/
+            network/input-control/unknown。缺省 unknown——宿主默认拒绝
+            （closed world），作者必须显式声明。</summary>
+        </member>
     </members>
 </doc>
